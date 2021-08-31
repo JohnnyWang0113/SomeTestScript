@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--需要解析的xml文件-->
+<fundmarket name="normal">
+<fund name = '前海稳健货币'>
+  <no>009898</no>
+  <value>0.96</value>
+  <Issuer>前海开源</Issuer>
+  <share>130000000</share>
+</fund>
+<fund name = '华阳众惠养老1号'>
+    <no>009546</no>
+    <value>1.70</value>
+    <Issuer>华阳中惠</Issuer>
+    <share>10045000</share>
+</fund>
+</fundmarket>
